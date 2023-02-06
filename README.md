@@ -9,7 +9,7 @@ Mallivastaukset julkaistaan pe 10.2.2023.
 
 Lataa sen sijaan koko git-repositorio zip-tiedostona klikkaamalla `Code` ja `Download ZIP`.
 
-![Download ZIP](./images/download_github.png)
+![Download ZIP](./images/ohje_github.png)
 
 ## Tehtävien palautus
 
