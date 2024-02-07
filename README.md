@@ -1,7 +1,6 @@
 # Kierros 1 — Kvanttilaskennan lukiokurssi 2024
 
 Kierroksen 1 tehtävien palautus viimeistään KE 28.2.2024.
-Mallivastaukset julkaistaan KE 14.2.2024.
 
 ## Työkirja
 
@@ -17,7 +16,7 @@ Palauta muokattu `kierros1_kvanttilaskenta2024.ipynb` [Google Formsiin](https://
 
 ## Mallivastaukset
 
-Mallivastaukset julkaistaan PE 10.2.2024
+Mallivastaukset julkaistaan tänne KE 14.2.2024.
 
 ## Materiaalit
 
